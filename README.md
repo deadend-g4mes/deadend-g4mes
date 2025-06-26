@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deadend-g4mes
+- 👋 Hi, I’m Leighton Carpenter
 - 👀 I’m interested in coding. I mainly use C#, Python and UE Blueprint.
 - 🌱 I’m currently learning JS as I want to try and learning as many coding languages as I can.
 - 📫 How to reach me by email. leighton.h.carpenter@gmail.com
